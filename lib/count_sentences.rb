@@ -4,6 +4,12 @@ class String
 
   def sentence?
     "HI!".end_with?("!")
+  end  
+    class sentence?
+  def end_with?
+    puts self
+  end
+  
   end
 
   def question?
